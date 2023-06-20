@@ -5,12 +5,12 @@ ORM backend
 
 ## Description
 
-TKTK Copy here
+Backend ORM that organizes, adds, and deletes objects
 
 ### Additional key elements:
 - ORM
-- inquirer
-- testing
+- Inquirer
+- Sequalize
 
 ## Table of Contents 
 
@@ -22,9 +22,6 @@ TKTK Copy here
 
 Use the application by downloading the code here:
 https://competentpunk.github.io/E-commerce-Back-End/
-
-## Usage
-
 
 ## License
 
